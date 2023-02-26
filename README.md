@@ -11,9 +11,6 @@
 <img src="https://skillicons.dev/icons?i=python,flask,dart,flutter,firebase,c,androidstudio&perline=3" />
 </br> 
 
-## My github stats
-<img src= "https://github-readme-stats.vercel.app/api?username=djdicesare&theme=material-palenight&show_icons=true"/>
-
 ## Contact me!
 <img align="left" src="https://skillicons.dev/icons?i=linkedin" />
 <p align = "left">https://www.linkedin.com/in/daviddicesarejr/</p>
